@@ -2,5 +2,7 @@
 name = "lines"
 version = "0.1.0"
 edition = "2021"
+description = "Get the number of lines in a file"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
